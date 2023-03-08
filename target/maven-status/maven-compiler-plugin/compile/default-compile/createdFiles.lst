@@ -1,0 +1,10 @@
+Logica\Charmander.class
+Logica\EjercicioIntegradorPokemon.class
+Logica\Pikachu.class
+Interfaz\IAgua.class
+Logica\Squirtle.class
+Interfaz\IFuego.class
+Interfaz\IElectrico.class
+Logica\Bulbasur.class
+Interfaz\IPlanta.class
+Logica\Pokemon.class
