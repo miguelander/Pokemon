@@ -28,6 +28,6 @@ public class Bulbasur extends Pokemon implements IPlanta{
 
     @Override
     public void atacarParalizar() {
-        System.out.println("Bulbasor ataque drenaje");
+        System.out.println("Bulbasor ataque paralizar");
     }
 }

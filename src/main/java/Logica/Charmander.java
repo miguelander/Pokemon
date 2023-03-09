@@ -22,7 +22,7 @@ public class Charmander extends Pokemon implements IFuego{
 
     @Override
     public void atacarPunioFuego() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        System.out.println("Charmander ataque puniofuego");
     }
 
     @Override
@@ -32,7 +32,7 @@ public class Charmander extends Pokemon implements IFuego{
 
     @Override
     public void atacarAscuas() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+         System.out.println("Charmander ataque de ascuas");
     }
     
 }

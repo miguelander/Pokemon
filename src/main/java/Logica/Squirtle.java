@@ -24,16 +24,16 @@ public class Squirtle extends Pokemon implements IAgua{
 
     @Override
     public void atacarHidroBomba() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        System.out.println("Squirtle ataque hidrobomba");
     }
 
     @Override
     public void atacarBurbuja() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        System.out.println("Squirtle ataque borbuja");
     }
 
     @Override
     public void atacarPistolaAgua() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        System.out.println("Squirtle ataque pistola de agua");
     }
 }

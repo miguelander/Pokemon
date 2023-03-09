@@ -24,12 +24,12 @@ public class Pikachu extends Pokemon implements IElectrico{
 
     @Override
     public void impactTrueno() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+       System.out.println("Pikachu ataque Impactrueno");
     }
 
     @Override
     public void punioTrueno() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+       System.out.println("Pikachu ataque Puniotrueno");
     }
     
 }
